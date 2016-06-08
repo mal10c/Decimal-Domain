@@ -6,4 +6,4 @@ then converts that IPv4 address to decimal - which removes the dots.
 
 Finally the binary value is converted to base 10.
 
-As an example, google.com will be converted to http://2811160620
+As an example, google.com will be converted to [http://2811160620](http://2811160620)
