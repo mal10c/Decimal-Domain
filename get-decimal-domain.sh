@@ -72,7 +72,7 @@ if [ "$ipDec" -ne 0 ]; then
 else
 
 	# Present an error code (1) back to the system to prevent it from running anything chained with the && operator
-	echo "Invalid domain or domain does not support IPv6"
+	echo "Invalid domain or domain does not support IPv4"
 	exit 1
 
 fi
